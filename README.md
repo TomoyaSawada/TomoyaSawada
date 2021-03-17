@@ -31,10 +31,12 @@ Collaborate with: Professor Antonio Ortega
 (Advisor: Professor Xiaoyang Mao, Associate Professor Masahiro Toyoura)
 
 ### Awards  
-1. Best Poster Award  
-T.Sawada, M.Toyoura, X.Mao (2012, March) 'Using Eye-tracking Data for Automatic Film Comic Generation', Forum on Art and Science.
-2. Scholarship Exemption  
-Repayment Exemption for Students with Excellent Grades -FY2014-, Japan Student Services Organization (JASSO) Scholarship)  
+- Best Student Award, Integrated Graduate School of Medicine and Engineering, University of Yamanashi, 2014.
+- Scholarship Exemption  
+Repayment Exemption for Students with Excellent Grades -FY2014-, Japan Student Services Organization (JASSO) Scholarship) 
+- Best Student Award, Faculty of Engineering, University of Yamanashi, 2012.
+- Best Poster Award  
+T.Sawada, M.Toyoura, X.Mao (2012, March) 'Using Eye-tracking Data for Automatic Film Comic Generation', Forum on Art and Science. 
 
 ### Journal Articles
 - T.Sawada,  Y.Goto,  M.Toyoura,  X.Mao,  J.Gyoba (2015, June) 'Saliency Map for Images with Leading Lines', IEICE‐JA, Vol.J98‐A,  No.6, pp.446‐449.  
