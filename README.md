@@ -48,9 +48,10 @@ Repayment Exemption for Students with Excellent Grades -FY2014-, Japan Student S
 - M. Toyoura, T. Sawada, M. Kunihiro, X. Mao (2012, March) 'Using Eye‐Tracking Data for Automatic Film Comic Creation', Eye Tracking Research & Applications, pp. 373‐376.
 
 ### Exhibition
+- CES, 'Realtime Object Detection for Camera-Monitoring-System', January 2020.
 - Combined Exhibition of Advanced Technologies(CEATEC), 'Object Detection for Camera-Monitoring-System', March 2018.
 - General Meeting of Shareholders (Mitsubishi Electric), 'Object Detection', May 2018.
-- CES, 'Realtime Object Detection for Camera-Monitoring-System', January 2020.
+
 
 ### Domestic Conferece
 - 中村光貴，澤田 友哉，杉本和夫，“時系列差分情報を付与した軽量な物体認識手法”，画像符号化シンポジウム・映像メディア処理シンポジウム(PCSJ/IMPS)，Vol.34，pp.84-85，2019-11.
