@@ -29,6 +29,7 @@ Collaborate with: Professor Antonio Ortega
 3. B.S. in Engineering, University of Yamanashi, 2012.  
 'Automatic Film Comic Generation with Eye-tracking data' (Best Presentation Award)  
 (Advisor: Professor Xiaoyang Mao, Associate Professor Masahiro Toyoura)
+4. CEFR C1 (Advanced Level), Completed a 272 lesson program, St Giles International Language Centres(Canada) Ltd., 2020.
 
 ### Awards  
 - CTO Masahiro Fujita Award, T.Sawada(2018, March) 'Development and Expantion of Maisart Technology', Mitsubishi Electric Corporation. 
