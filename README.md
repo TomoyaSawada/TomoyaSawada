@@ -32,7 +32,7 @@ Collaborate with: Professor Antonio Ortega
 
 ### Awards  
 - CTO Masahiro Fujita Award, T.Sawada(2018, March) 'Development and Expantion of Maisart Technology', Mitsubishi Electric Corporation. 
-- Information Technology R&D Center GM Tetsuo Nakagawaji Award, T.Sawada(2017, March) 'Fundomental Technology Development of Self-driving Vehicle(Level3)', Mitsubishi Electric Corporation. 
+- Information Technology R&D Center GM Tetsuo Nakagawaji Award, T.Sawada(2017, March) 'Fundamental Technology Development of Self-driving Vehicle(Level3)', Mitsubishi Electric Corporation. 
 - Best Student Award, T.Sawada (2014, March), Integrated Graduate School of Medicine and Engineering, University of Yamanashi.
 - Scholarship Exemption  
 T.Sawada (2014, March), Repayment Exemption for Students with Excellent Grades -FY2014-, Japan Student Services Organization (JASSO) Scholarship) 
