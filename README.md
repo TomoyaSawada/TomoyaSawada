@@ -31,10 +31,12 @@ Collaborate with: Professor Antonio Ortega
 (Advisor: Professor Xiaoyang Mao, Associate Professor Masahiro Toyoura)
 
 ### Awards  
-- Best Student Award, Integrated Graduate School of Medicine and Engineering, University of Yamanashi, 2014.
+- CTO Masahiro Fujita Award, T.Sawada(2018, March) 'Development and Expantion of Maisart Technology', Mitsubishi Electric Corporation. 
+- Information Technology R&D Center GM Tetsuo Nakagawaji Award, T.Sawada(2017, March) 'Fundomental Technology Development of Self-driving Vehicle(Level3)', Mitsubishi Electric Corporation. 
+- Best Student Award, T.Sawada (2014, March), Integrated Graduate School of Medicine and Engineering, University of Yamanashi.
 - Scholarship Exemption  
-Repayment Exemption for Students with Excellent Grades -FY2014-, Japan Student Services Organization (JASSO) Scholarship) 
-- Best Student Award, Faculty of Engineering, University of Yamanashi, 2012.
+T.Sawada (2014, March), Repayment Exemption for Students with Excellent Grades -FY2014-, Japan Student Services Organization (JASSO) Scholarship) 
+- Best Student Award, T.Sawada (2012, March), Faculty of Engineering, University of Yamanashi. 
 - Best Poster Award  
 T.Sawada, M.Toyoura, X.Mao (2012, March) 'Using Eye-tracking Data for Automatic Film Comic Generation', Forum on Art and Science. 
 
@@ -50,10 +52,20 @@ T.Sawada, M.Toyoura, X.Mao (2012, March) 'Using Eye-tracking Data for Automatic 
 - M. Toyoura, T. Sawada, M. Kunihiro, X. Mao (2012, March) 'Using Eye‐Tracking Data for Automatic Film Comic Creation', Eye Tracking Research & Applications, pp. 373‐376.
 
 ### Exhibition
-- CES, 'Realtime Object Detection for Camera-Monitoring-System', January 2020.
-- Combined Exhibition of Advanced Technologies(CEATEC), 'Object Detection for Camera-Monitoring-System', March 2018.
-- General Meeting of Shareholders (Mitsubishi Electric), 'Object Detection', May 2018.
+- CES, 'Realtime Object Detection for Camera-Monitoring-System', Tomoya Sawada, Masahiro Mizuno, January 2020.
+- Combined Exhibition of Advanced Technologies(CEATEC), 'Object Detection for Camera-Monitoring-System', Tomoya Sawada, Kazuyuki Miyazawa, March 2018.
+- General Meeting of Shareholders (Mitsubishi Electric), 'Object Detection', Tomoya Sawada, May 2018.
 
+### Patents
+- "対話支援装置、対話支援システム、及び対話支援プログラム"、黒木友裕 、高橋幹雄 、高井勇志 、大塚貴弘 、内出隼人 、澤田友哉 、川島啓吾 、津田由佳 、志田哲郎 、吉田諒 、石川美穂 、飯田隆義、(株式会社竹中工務店、三菱電機株式会社)、公開番号	2020-173714. 
+- "物体検出装置および物体検出方法"、澤田友哉 、三嶋英俊 、前原秀明 、守屋芳美 、宮澤一之 、峯澤彰 、日野百代 、王夢雄 、澁谷直大、(三菱電機株式会社)、公開番号 WO2018-051459. 
+- "事故情報収集システムおよび事故情報収集方法"、宮澤一之 、関口俊一 、前原秀明 、守屋芳美 、峯澤彰 、服部亮史 、日野百代 、澤田友哉 、澁谷直大、(三菱電機株式会社)、	公開番号 WO2018-008122.
+- "サーバ装置、ネットワークシステム及びセンサ機器"、峯澤彰 、宮澤一之 、服部亮史 、日野百代 、澤田友哉 、守屋芳美 、関口俊一、(三菱電機株式会社)、公開番号 2018-061110. 
+- "物体検出装置及び物体検出方法"、宮澤一之 、関口俊一 、前原秀明 、守屋芳美 、峯澤彰 、服部亮史 、長瀬百代 、澤田友哉、(三菱電機株式会社)、公開番号 WO2017-094140. 
+- "画像特徴記述子符号化装置、画像特徴記述子復号装置、画像特徴記述子符号化方法及び画像特徴記述子復号方法"、	峯澤彰 、守屋芳美 、関口俊一 、服部亮史 、宮澤一之 、澤田友哉 、澁谷直大、(三菱電機株式会社)、公開番号	2017-143425. 
+- "ACCIDENT INFORMATION COLLECTION SYSTEM, AND ACCIDENT INFORMATION COLLECTION METHOD", Kazuyuki MIYAZAWA, Shunichi SEKIGUCHI, Hideaki MAEHARA, Yoshimi MORIYA, Akira MINEZAWA, Ryoji HATTORI, Momoyo HINO, Tomoya SAWADA, Naohiro SHIBUYA, (MITSUBISHI ELECTRIC CORPORATION), Publication number: 20190193659. 
+- "Object detection device and object detection method", Tomoya Sawada, Hidetoshi Mishima, Hideaki Maehara, Yoshimi Moriya, Kazuyuki Miyazawa, Akira Minezawa, Momoyo Hino, Mengxiong Wang, Naohiro Shibuya, (MITSUBISHI ELECTRIC CORPORATION), Patent number: 10943141. 
+- "Object detection device and object detection method", Kazuyuki Miyazawa, Shunichi Sekiguchi, Hideaki Maehara, Yoshimi Moriya, Akira Minezawa, Ryoji Hattori, Momoyo Nagase, Tomoya Sawada, (MITSUBISHI ELECTRIC CORPORATION), Patent number: 10643338. 
 
 ### Domestic Conferece
 - 中村光貴，澤田 友哉，杉本和夫，“時系列差分情報を付与した軽量な物体認識手法”，画像符号化シンポジウム・映像メディア処理シンポジウム(PCSJ/IMPS)，Vol.34，pp.84-85，2019-11.
