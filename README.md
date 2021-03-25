@@ -1,7 +1,8 @@
 ## Tomoya SAWADA  
 Research/Development at Mitsubishi Electric
 
-### Experience  
+<details open> 
+<summary> ### Experience  </summary>
 April 2015 - `Research Scientist/Engineer, Mitsubishi Electric`  
 Image Analytics and Processing Technology Group,  
 Smart Information Processing Technology Dept.  
@@ -18,6 +19,8 @@ Collaborate with: Professor Antonio Torralba
 October 2016 - October 2018, `Joint Research, University of Southern California(USC)`  
 Research on Graph Signal Processing  
 Collaborate with: Professor Antonio Ortega
+
+</details>
 
 ### Education
 1. Ph.D in Computer Science, University of Yamanashi, 2015.  
