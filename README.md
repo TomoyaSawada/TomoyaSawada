@@ -1,13 +1,13 @@
 ## Tomoya SAWADA  
 Research/Development at Mitsubishi Electric
 
-<details open> 
-<summary> ### Experience  </summary>
+### Experience  
+  
 April 2015 - `Research Scientist/Engineer, Mitsubishi Electric`  
 Image Analytics and Processing Technology Group,  
 Smart Information Processing Technology Dept.  
 INFORMATION TECHNOLOGY R&D CENTER  
-    
+
 May,December 2019, `Visiting Researcher, Mitsubishi Electric Research Laboratory(MERL)`  
 Research on Object Detection/Segmentation, Face Recognition and Video Anomaly Detection  
 Advisor: Michael Jones, Tim Marks, Anoop Cherian, Teng-yok Lee, Alan Sullivan  
@@ -19,8 +19,6 @@ Collaborate with: Professor Antonio Torralba
 October 2016 - October 2018, `Joint Research, University of Southern California(USC)`  
 Research on Graph Signal Processing  
 Collaborate with: Professor Antonio Ortega
-
-</details>
 
 ### Education
 1. Ph.D in Computer Science, University of Yamanashi, 2015.  
