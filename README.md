@@ -2,8 +2,13 @@
 Research/Development at Mitsubishi Electric
 
 ### Experience  
-  
-April 2015 - `Research Scientist/Engineer, Mitsubishi Electric`  
+
+April 2021 - `Researcher/Manager, Mitsubishi Electric`  
+Maisart Co-Innovation Center,  
+Business Innovation & DX Strategy Div.  
+MITSUBISHI ELECTRIC CORPORATION, HQs.  
+
+April 2015 - March 2021 `Research Scientist/Engineer, Mitsubishi Electric`  
 Image Analytics and Processing Technology Group,  
 Smart Information Processing Technology Dept.  
 INFORMATION TECHNOLOGY R&D CENTER  
@@ -33,10 +38,10 @@ Collaborate with: Professor Antonio Ortega
 4. CEFR C1 (Advanced Level), Completed a 272 lesson program, St Giles International Language Centres(Canada) Ltd., 2020.
 
 ### Awards  
-- CTO Masahiro Fujita Award, T.Sawada(2018, March) 'Development and Expantion of Maisart Technology', Mitsubishi Electric Corporation. 
+- CTO Masahiro Fujita Award, T.Sawada(2018, March) 'Development and Expansion of Maisart Technology', Mitsubishi Electric Corporation. 
 - Information Technology R&D Center GM Tetsuo Nakagawaji Award, T.Sawada(2017, March) 'Fundamental Technology Development of Self-driving Vehicle(Level3)', Mitsubishi Electric Corporation. 
 - Best Student Award, T.Sawada (2014, March), Integrated Graduate School of Medicine and Engineering, University of Yamanashi.
-- Scholarship Exemption  
+- Scholarship Full Exemption  
 T.Sawada (2014, March), Repayment Exemption for Students with Excellent Grades -FY2014-, Japan Student Services Organization (JASSO) Scholarship) 
 - Best Student Award, T.Sawada (2012, March), Faculty of Engineering, University of Yamanashi. 
 - Best Poster Award  
@@ -80,7 +85,7 @@ T.Sawada, M.Toyoura, X.Mao (2012, March) 'Using Eye-tracking Data for Automatic 
 - 澤田 友哉，豊浦 正広，茅 暁陽，“フィルムコミックの自動生成における視線情報の利用”，情報処理学会全国大会，1Q-9，2012-3
 
 ### Reviewer
-TVCJ(2021), CDS-trans(2020)
+Transactions on Visual Computing(2021), CDS-trans(2020)
 
 <!--
 **kei-ts/kei-ts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
