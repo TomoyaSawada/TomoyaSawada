@@ -6,7 +6,7 @@ Research/Development at Mitsubishi Electric
 April 2021 - `Researcher/Manager, Mitsubishi Electric`  
 Maisart Co-Innovation Center,  
 Business Innovation & DX Strategy Div.  
-MITSUBISHI ELECTRIC CORPORATION, HQs.  
+MITSUBISHI ELECTRIC CORPORATION, Headquarters.  
 
 April 2015 - March 2021 `Research Scientist/Engineer, Mitsubishi Electric`  
 Image Analytics and Processing Technology Group,  
