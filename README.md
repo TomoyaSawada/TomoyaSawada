@@ -55,12 +55,12 @@ T.Sawada, M.Toyoura, X.Mao (2012, March) 'Using Eye-tracking Data for Automatic 
 - T.Sawada, M.Toyoura, X.Mao (2013, September) 'Automatic Film Comic Generation Using iMap', The Journal of the Institute of Image Electronics Engineers of Japan, Vol. 42, No. 5, pp. 671‐680.
 
 ### International Conference (Refereed)
-- T. Sawada, T-Y. Lee, M. Mizuno (2021, September), 'Bottom-up Saliency Meets Top-down Semantics for Object Detection', ICIP, (To appear) 
-- P. Das, J. Kao, A. Ortega, T. Sawada, H. Mansour, A. Vetro, A. Minezawa (2019, May) 'Hand Graph Representations for Unsupervised Segmentation of Complex Activities', ICCASP, pp.4075-4079.
-- T. Sawada, M. Toyoura, X. Mao (2017, June) 'Auto‐Framing Based on User Camera Movement', Computer Graphics International, pp. 1‐6 (Article 18). 
+- T. Sawada, T-Y. Lee, M. Mizuno (2021, September), 'Bottom-up Saliency Meets Top-down Semantics for Object Detection', IEEE International Conference on Image Processing(ICIP), (To appear) 
+- P. Das, J. Kao, A. Ortega, T. Sawada, H. Mansour, A. Vetro, A. Minezawa (2019, May) 'Hand Graph Representations for Unsupervised Segmentation of Complex Activities', International Conference on Acoustics, Speech, and Signal Processing(ICCASP), pp.4075-4079.
+- T. Sawada, M. Toyoura, X. Mao (2017, June) 'Auto‐Framing Based on User Camera Movement', Computer Graphics International(CGI), pp. 1‐6 (Article 18). 
 - K. Fujimori, S. Zhu, T. Sawada, M. Toyoura, X. Mao (2014, November) 'Image based Kansei-words Labeling by Game', NICOGRAPH, pp.81-86.
 - T. Sawada, M. Toyoura, X. Mao (2013, January) 'Film Comic Generation with Eye Tracking', International Conference on MultiMedia Modeling (MMM,  Lecture Notes in Computer Science), Vol.7732/2013, pp.467‐478. 
-- M. Toyoura, T. Sawada, M. Kunihiro, X. Mao (2012, March) 'Using Eye‐Tracking Data for Automatic Film Comic Creation', Eye Tracking Research & Applications, pp. 373‐376.
+- M. Toyoura, T. Sawada, M. Kunihiro, X. Mao (2012, March) 'Using Eye‐Tracking Data for Automatic Film Comic Creation', ACM Simposium on Eye Tracking Research & Applications(ETRA), pp. 373‐376.
 
 ### Exhibition, Publication
 - CES, 'Realtime Object Detection for Camera-Monitoring-System', Tomoya Sawada, Masahiro Mizuno, January 2020.
