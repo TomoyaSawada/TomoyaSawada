@@ -71,12 +71,14 @@ T.Sawada, M.Toyoura, X.Mao (2012, March) 'Using Eye-tracking Data for Automatic 
 - News Release, 'Mitsubishi Electric Develops Object-recognition Camera Technology Using Proprietary AI for Coming Mirrorless Cars', 2018.
 
 ### Patents
+- "物体検出装置、モニタリング装置及び学習装置"、澤田友哉、福地賢、守屋芳美、(三菱電機株式会社)、公開番号 WO2021-130881.
 - "対話支援装置、対話支援システム、及び対話支援プログラム"、黒木友裕 、高橋幹雄 、高井勇志 、大塚貴弘 、内出隼人 、澤田友哉 、川島啓吾 、津田由佳 、志田哲郎 、吉田諒 、石川美穂 、飯田隆義、(株式会社竹中工務店、三菱電機株式会社)、公開番号	2020-173714. 
 - "物体検出装置および物体検出方法"、澤田友哉 、三嶋英俊 、前原秀明 、守屋芳美 、宮澤一之 、峯澤彰 、日野百代 、王夢雄 、澁谷直大、(三菱電機株式会社)、公開番号 WO2018-051459. 
 - "事故情報収集システムおよび事故情報収集方法"、宮澤一之 、関口俊一 、前原秀明 、守屋芳美 、峯澤彰 、服部亮史 、日野百代 、澤田友哉 、澁谷直大、(三菱電機株式会社)、	公開番号 WO2018-008122.
 - "サーバ装置、ネットワークシステム及びセンサ機器"、峯澤彰 、宮澤一之 、服部亮史 、日野百代 、澤田友哉 、守屋芳美 、関口俊一、(三菱電機株式会社)、公開番号 2018-061110. 
 - "物体検出装置及び物体検出方法"、宮澤一之 、関口俊一 、前原秀明 、守屋芳美 、峯澤彰 、服部亮史 、長瀬百代 、澤田友哉、(三菱電機株式会社)、公開番号 WO2017-094140. 
 - "画像特徴記述子符号化装置、画像特徴記述子復号装置、画像特徴記述子符号化方法及び画像特徴記述子復号方法"、	峯澤彰 、守屋芳美 、関口俊一 、服部亮史 、宮澤一之 、澤田友哉 、澁谷直大、(三菱電機株式会社)、公開番号	2017-143425. 
+- "OBJECT DETECTION DEVICE, MONITORING DEVICE, AND LEARNING DEVICE", Tomoya SAWADA, Ken FUKUCHI, Yoshimi MORIYA, (MITSUBISHI ELECTRIC CORPORATION), Publication number: WO/2021/130881.
 - "ACCIDENT INFORMATION COLLECTION SYSTEM, AND ACCIDENT INFORMATION COLLECTION METHOD", Kazuyuki MIYAZAWA, Shunichi SEKIGUCHI, Hideaki MAEHARA, Yoshimi MORIYA, Akira MINEZAWA, Ryoji HATTORI, Momoyo HINO, Tomoya SAWADA, Naohiro SHIBUYA, (MITSUBISHI ELECTRIC CORPORATION), Publication number: 20190193659. 
 - "Object detection device and object detection method", Tomoya Sawada, Hidetoshi Mishima, Hideaki Maehara, Yoshimi Moriya, Kazuyuki Miyazawa, Akira Minezawa, Momoyo Hino, Mengxiong Wang, Naohiro Shibuya, (MITSUBISHI ELECTRIC CORPORATION), Patent number: 10943141. 
 - "Object detection device and object detection method", Kazuyuki Miyazawa, Shunichi Sekiguchi, Hideaki Maehara, Yoshimi Moriya, Akira Minezawa, Ryoji Hattori, Momoyo Nagase, Tomoya Sawada, (MITSUBISHI ELECTRIC CORPORATION), Patent number: 10643338. 
