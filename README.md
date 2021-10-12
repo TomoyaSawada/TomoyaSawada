@@ -55,7 +55,7 @@ T.Sawada, M.Toyoura, X.Mao (2012, March) 'Using Eye-tracking Data for Automatic 
 - T.Sawada, M.Toyoura, X.Mao (2013, September) 'Automatic Film Comic Generation Using iMap', The Journal of the Institute of Image Electronics Engineers of Japan, Vol. 42, No. 5, pp. 671‐680.
 
 ### International Conference (Refereed)
-- T. Sawada, T-Y. Lee, M. Mizuno (2021, September), 'Bottom-up Saliency Meets Top-down Semantics for Object Detection', IEEE International Conference on Image Processing(ICIP), (To appear) 
+- T. Sawada, T. -Y. Lee and M. Mizuno, "Bottom-Up Saliency Meets Top-Down Semantics For Object Detection," 2021 IEEE International Conference on Image Processing (ICIP), 2021, pp. 729-733, doi: 10.1109/ICIP42928.2021.9506475.
 - P. Das, J. Kao, A. Ortega, T. Sawada, H. Mansour, A. Vetro, A. Minezawa (2019, May) 'Hand Graph Representations for Unsupervised Segmentation of Complex Activities', International Conference on Acoustics, Speech, and Signal Processing(ICCASP), pp.4075-4079.
 - T. Sawada, M. Toyoura, X. Mao (2017, June) 'Auto‐Framing Based on User Camera Movement', Computer Graphics International(CGI), pp. 1‐6 (Article 18). 
 - K. Fujimori, S. Zhu, T. Sawada, M. Toyoura, X. Mao (2014, November) 'Image based Kansei-words Labeling by Game', NICOGRAPH, pp.81-86.
@@ -94,7 +94,7 @@ T.Sawada, M.Toyoura, X.Mao (2012, March) 'Using Eye-tracking Data for Automatic 
 - 澤田 友哉，豊浦 正広，茅 暁陽，“フィルムコミックの自動生成における視線情報の利用”，情報処理学会全国大会，1Q-9，2012-3
 
 ### Reviewer
-The Visual Computer(2021), CDS-trans(2020)
+The Visual Computer(2021, 2020), CDS-trans(2020)
 
 <!--
 **kei-ts/kei-ts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
