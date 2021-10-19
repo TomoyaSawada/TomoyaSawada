@@ -71,6 +71,7 @@ T.Sawada, M.Toyoura, X.Mao (2012, March) 'Using Eye-tracking Data for Automatic 
 - News Release, 'Mitsubishi Electric Develops Object-recognition Camera Technology Using Proprietary AI for Coming Mirrorless Cars', 2018.
 
 ### Patents
+- "運転支援制御装置及び運転支援制御方法"、澤田友哉 、福地賢、(三菱電機株式会社)、登録番号　6932269. 
 - "物体検出装置、モニタリング装置及び学習装置"、澤田友哉、福地賢、守屋芳美、(三菱電機株式会社)、公開番号 WO2021-130881.
 - "対話支援装置、対話支援システム、及び対話支援プログラム"、黒木友裕 、高橋幹雄 、高井勇志 、大塚貴弘 、内出隼人 、澤田友哉 、川島啓吾 、津田由佳 、志田哲郎 、吉田諒 、石川美穂 、飯田隆義、(株式会社竹中工務店、三菱電機株式会社)、公開番号	2020-173714. 
 - "物体検出装置および物体検出方法"、澤田友哉 、三嶋英俊 、前原秀明 、守屋芳美 、宮澤一之 、峯澤彰 、日野百代 、王夢雄 、澁谷直大、(三菱電機株式会社)、公開番号 WO2018-051459. 
