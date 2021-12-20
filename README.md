@@ -71,7 +71,11 @@ T.Sawada, M.Toyoura, X.Mao (2012, March) 'Using Eye-tracking Data for Automatic 
 - News Release, 'Mitsubishi Electric Develops Object-recognition Camera Technology Using Proprietary AI for Coming Mirrorless Cars', 2018.
 
 ### Patents
+- "学習済モデル生成システム、学習済モデル生成方法、情報処理装置、プログラム、学習済モデル、および推定装置"、澤田友哉、(三菱電機株式会社)、出願番号　PCT/JP2021/044400.
 - "運転支援制御装置及び運転支援制御方法"、澤田友哉 、福地賢、(三菱電機株式会社)、登録番号　6932269. 
+- "推論装置、推論方法、学習装置、学習方法、及びプログラム"、澤田友哉、福地賢、守屋芳美、(三菱電機株式会社)、出願番号　PCT/JP2021/013407.
+- "物体検出装置、モニタリング装置、学習装置、及び、モデル生成方法"、澤田友哉、福地賢、(三菱電機株式会社)、出願番号　PCT/JP2020/048617.
+- "ラベリング装置及び学習装置"、澤田友哉、福地賢、守屋芳美、(三菱電機株式会社)、出願番号　PCT/JP2020/009092.
 - "物体検出装置、モニタリング装置及び学習装置"、澤田友哉、福地賢、守屋芳美、(三菱電機株式会社)、公開番号 WO2021-130881.
 - "対話支援装置、対話支援システム、及び対話支援プログラム"、黒木友裕 、高橋幹雄 、高井勇志 、大塚貴弘 、内出隼人 、澤田友哉 、川島啓吾 、津田由佳 、志田哲郎 、吉田諒 、石川美穂 、飯田隆義、(株式会社竹中工務店、三菱電機株式会社)、公開番号	2020-173714. 
 - "物体検出装置および物体検出方法"、澤田友哉 、三嶋英俊 、前原秀明 、守屋芳美 、宮澤一之 、峯澤彰 、日野百代 、王夢雄 、澁谷直大、(三菱電機株式会社)、公開番号 WO2018-051459. 
@@ -79,6 +83,10 @@ T.Sawada, M.Toyoura, X.Mao (2012, March) 'Using Eye-tracking Data for Automatic 
 - "サーバ装置、ネットワークシステム及びセンサ機器"、峯澤彰 、宮澤一之 、服部亮史 、日野百代 、澤田友哉 、守屋芳美 、関口俊一、(三菱電機株式会社)、公開番号 2018-061110. 
 - "物体検出装置及び物体検出方法"、宮澤一之 、関口俊一 、前原秀明 、守屋芳美 、峯澤彰 、服部亮史 、長瀬百代 、澤田友哉、(三菱電機株式会社)、公開番号 WO2017-094140. 
 - "画像特徴記述子符号化装置、画像特徴記述子復号装置、画像特徴記述子符号化方法及び画像特徴記述子復号方法"、	峯澤彰 、守屋芳美 、関口俊一 、服部亮史 、宮澤一之 、澤田友哉 、澁谷直大、(三菱電機株式会社)、公開番号	2017-143425. 
+- "映像収集システム"、共同出願、(三菱電機株式会社)、登録番号　06104482.
+- "移動体検出装置およびその方法"、共同出願、(三菱電機株式会社)、登録番号　06230751.
+- "映像処理装置および方法"、共同出願、(三菱電機株式会社)、登録番号　06116765.
+- "ネットワークシステム、ノード装置群、センサ機器群、サーバ装置群およびセンサデータ送受信方法"、共同出願、(三菱電機株式会社)、出願番号　2016196292.
 - "OBJECT DETECTION DEVICE, MONITORING DEVICE, AND LEARNING DEVICE", Tomoya SAWADA, Ken FUKUCHI, Yoshimi MORIYA, (MITSUBISHI ELECTRIC CORPORATION), Publication number: WO/2021/130881.
 - "ACCIDENT INFORMATION COLLECTION SYSTEM, AND ACCIDENT INFORMATION COLLECTION METHOD", Kazuyuki MIYAZAWA, Shunichi SEKIGUCHI, Hideaki MAEHARA, Yoshimi MORIYA, Akira MINEZAWA, Ryoji HATTORI, Momoyo HINO, Tomoya SAWADA, Naohiro SHIBUYA, (MITSUBISHI ELECTRIC CORPORATION), Publication number: 20190193659. 
 - "Object detection device and object detection method", Tomoya Sawada, Hidetoshi Mishima, Hideaki Maehara, Yoshimi Moriya, Kazuyuki Miyazawa, Akira Minezawa, Momoyo Hino, Mengxiong Wang, Naohiro Shibuya, (MITSUBISHI ELECTRIC CORPORATION), Patent number: 10943141. 
