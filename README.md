@@ -24,8 +24,8 @@ October 2018 - October 2021,  `Joint Research, Massachusetts Institute of Techno
 Research on Generative Adversarial Networks(GAN), Annotation System for Semantic Segmentation  
 Collaborate with: Professor Antonio Torralba
 
-October 2017 - October 2018, `Joint Research, FreshlyGround Pte Ltd.` 
-Research on Design Thinking, Business Incubation
+October 2017 - October 2018, `Joint Research, FreshlyGround Pte Ltd.`  
+Research on Design Thinking, Business Incubation  
 Collaborate with: Thierry DO, Shang LIM
   
 October 2016 - October 2018, `Joint Research, University of Southern California(USC)`  
