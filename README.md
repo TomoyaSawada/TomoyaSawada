@@ -18,11 +18,15 @@ INFORMATION TECHNOLOGY R&D CENTER
 
 May,December 2019, `Visiting Researcher, Mitsubishi Electric Research Laboratory(MERL)`  
 Research on Object Detection/Segmentation, Face Recognition and Video Anomaly Detection  
-Advisor: Michael Jones, Tim Marks, Anoop Cherian, Teng-yok Lee, Alan Sullivan  
+Advisors: Michael Jones, Tim Marks, Anoop Cherian, Teng-yok Lee and Alan Sullivan  
    
 October 2018 - October 2021,  `Joint Research, Massachusetts Institute of Technology(MIT)`  
 Research on Generative Adversarial Networks(GAN), Annotation System for Semantic Segmentation  
 Collaborate with: Professor Antonio Torralba
+
+October 2017 - October 2018, `Joint Research, FreshlyGround Pte Ltd.` 
+Research on Design Thinking, Business Incubation
+Collaborate with: Thierry DO, Shang LIM
   
 October 2016 - October 2018, `Joint Research, University of Southern California(USC)`  
 Research on Graph Signal Processing  
