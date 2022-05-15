@@ -59,6 +59,8 @@ T.Sawada, M.Toyoura, X.Mao (2012, March) 'Using Eye-tracking Data for Automatic 
 - T.Sawada, M.Toyoura, X.Mao (2013, September) 'Automatic Film Comic Generation Using iMap', The Journal of the Institute of Image Electronics Engineers of Japan, Vol. 42, No. 5, pp. 671‐680.
 
 ### International Conference (Refereed)
+- T. Sawada and M. Nakamura, "INTELLIGENT WARNING SYSTEM MONITORING VEHICLE SURROUNDING AND DRIVER'S BEHAVIOR," 2022 IEEE International Conference on Multimedia and Expo Workshops (ICMEW), July, 2022.
+- T. Sawada, T. -Y. Lee and M. Mizuno, "VIDEO OBJECT SEGMENTATION WITH ONLINE MASK REFINEMENT," 2022 IEEE International Conference on Multimedia and Expo Workshops (ICMEW), July, 2022.
 - T. Sawada, T. -Y. Lee and M. Mizuno, "Bottom-Up Saliency Meets Top-Down Semantics For Object Detection," 2021 IEEE International Conference on Image Processing (ICIP), 2021, pp. 729-733, doi: 10.1109/ICIP42928.2021.9506475.
 - P. Das, J. Kao, A. Ortega, T. Sawada, H. Mansour, A. Vetro, A. Minezawa (2019, May) 'Hand Graph Representations for Unsupervised Segmentation of Complex Activities', International Conference on Acoustics, Speech, and Signal Processing(ICCASP), pp.4075-4079.
 - T. Sawada, M. Toyoura, X. Mao (2017, June) 'Auto‐Framing Based on User Camera Movement', Computer Graphics International(CGI), pp. 1‐6 (Article 18). 
