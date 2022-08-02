@@ -10,19 +10,14 @@ April 2021 - `Researcher/Manager, Mitsubishi Electric`
 Maisart Co-Innovation Center,  
 Business Innovation & DX Strategy Div.  
 MITSUBISHI ELECTRIC CORPORATION, Headquarters.  
-
-April 2015 - March 2021 `Research Scientist/Engineer, Mitsubishi Electric`  
-Image Analytics and Processing Technology Group,  
-Smart Information Processing Technology Dept.  
-INFORMATION TECHNOLOGY R&D CENTER  
-
-May,December 2019, `Visiting Researcher, Mitsubishi Electric Research Laboratory(MERL)`  
-Research on Object Detection/Segmentation, Face Recognition and Video Anomaly Detection  
-Advisors: Michael Jones, Tim Marks, Anoop Cherian, Teng-yok Lee and Alan Sullivan  
    
 October 2018 - October 2021,  `Joint Research, Massachusetts Institute of Technology(MIT)`  
 Research on Generative Adversarial Networks(GAN), Annotation System for Semantic Segmentation  
 Collaborate with: Professor Antonio Torralba
+
+May,December 2019, `Visiting Researcher, Mitsubishi Electric Research Laboratory(MERL)`  
+Research on Object Detection/Segmentation, Face Recognition and Video Anomaly Detection  
+Advisors: Michael Jones, Tim Marks, Anoop Cherian, Teng-yok Lee and Alan Sullivan  
 
 October 2017 - October 2018, `Joint Research, FreshlyGround Pte Ltd.`  
 Research on Design Thinking, Business Incubation  
@@ -31,6 +26,11 @@ Collaborate with: Thierry DO, Shang LIM
 October 2016 - October 2018, `Joint Research, University of Southern California(USC)`  
 Research on Graph Signal Processing  
 Collaborate with: Professor Antonio Ortega
+
+April 2015 - March 2021 `Research Scientist/Engineer, Mitsubishi Electric`  
+Image Analytics and Processing Technology Group,  
+Smart Information Processing Technology Dept.  
+INFORMATION TECHNOLOGY R&D CENTER  
 
 ### Education
 1. Ph.D in Computer Science, University of Yamanashi, 2015.  
