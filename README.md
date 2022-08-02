@@ -70,8 +70,8 @@ T.Sawada, M.Toyoura, X.Mao (2012, March) 'Using Eye-tracking Data for Automatic 
 - M. Toyoura, T. Sawada, M. Kunihiro, X. Mao (2012, March) 'Using Eye‐Tracking Data for Automatic Film Comic Creation', ACM Simposium on Eye Tracking Research & Applications(ETRA), pp. 373‐376.
 
 ### Exhibition and Publication
-- The Institute of Image Information and Television Engineers, '"Go beyond Artificial Intelligence, towards Augmented Intelligence", Tomoya Sawada, Vol.76, No.4, 2022.
-- MITSUBISHI ELECTRIC Technical Report, 'Expanding Digital Transformation Creates Customer Value Utilizing AI Technology 'Maisart'', Tomoya Sawada, Keisuke Watanabe, Vol.96, No.2, 2022.
+- The Institute of Image Information and Television Engineers, '"Go beyond Artificial Intelligence, towards Augmented Intelligence", Tomoya Sawada, Vol.76, No.4, pp. 485-488, 2022.
+- MITSUBISHI ELECTRIC Technical Report, 'Expanding Digital Transformation Creates Customer Value Utilizing AI Technology 'Maisart'', Tomoya Sawada, Keisuke Watanabe, Vol.96, No.2, pp.10-13, 2022.
 - CES, 'Realtime Object Detection for Camera-Monitoring-System', Tomoya Sawada, Masahiro Mizuno, January 2020.
 - Advanced Technology Expo., 'Object Recognition for Vehicles', Tomoya Sawada, June 2018.
 - General Meeting of Shareholders (Mitsubishi Electric), 'Technical Introduction of AI: Object Detection', Tomoya Sawada, May 2018.
