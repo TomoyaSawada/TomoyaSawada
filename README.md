@@ -112,7 +112,7 @@ T.Sawada, M.Toyoura, X.Mao (2012, March) 'Using Eye-tracking Data for Automatic 
 - 澤田 友哉，豊浦 正広，茅 暁陽，“フィルムコミックの自動生成における視線情報の利用”，情報処理学会全国大会，1Q-9，2012-3
 
 ### Reviewer
-The Visual Computer(2021, 2020), CDS-trans(2020)
+The Visual Computer(2022, 2021, 2020), CDS-trans(2020)
 
 <!--
 **kei-ts/kei-ts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
