@@ -45,7 +45,7 @@ Collaborate with: Professor Antonio Ortega
 4. CEFR C1 (Advanced Level), Completed a 272 lesson program, St Giles International Language Centres(Canada) Ltd., 2020.
 
 ### Awards  
-- Director of Export Conrol Hiroyuki Ueda Award, T.Sawada(2022, June) 'Realization of data handling risk minimization in overseas cloud services utilization for data linkage and data-driven business', Mitsubishi Electric Corporation. 
+- Director of Export Control Hiroyuki Ueda Award, T.Sawada(2022, June) 'Realization of data handling risk minimization in overseas cloud services utilization for data linkage and data-driven business', Mitsubishi Electric Corporation. 
 - CTO Masahiro Fujita Award, T.Sawada(2018, March) 'Development and Expansion of Maisart Technology', Mitsubishi Electric Corporation. 
 - Information Technology R&D Center GM Tetsuo Nakagawaji Award, T.Sawada(2017, March) 'Fundamental Technology Development of Self-driving Vehicle(Level3)', Mitsubishi Electric Corporation. 
 - Best Student Award, T.Sawada (2014, March), Integrated Graduate School of Medicine and Engineering, University of Yamanashi.
