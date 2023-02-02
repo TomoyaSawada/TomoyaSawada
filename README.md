@@ -73,11 +73,12 @@ T.Sawada, M.Toyoura, X.Mao (2012, March) 'Using Eye-tracking Data for Automatic 
 - The Institute of Image Information and Television Engineers, '"Go beyond Artificial Intelligence, towards Augmented Intelligence", Tomoya Sawada, Vol.76, No.4, pp. 485-488, 2022.
 - MITSUBISHI ELECTRIC Technical Report, 'Expanding Digital Transformation Creates Customer Value Utilizing AI Technology 'Maisart'', Tomoya Sawada, Keisuke Watanabe, Vol.96, No.2, pp.10-13, 2022.
 - CES, 'Realtime Object Detection for Camera-Monitoring-System', Tomoya Sawada, Masahiro Mizuno, January 2020.
+- News Release, 'Mitsubishi Electric Develops Compact-GAN', 2019. <https://www.mitsubishielectric.co.jp/news/2019/pdf/0131.pdf>
 - Advanced Technology Expo., 'Object Recognition for Vehicles', Tomoya Sawada, June 2018.
 - General Meeting of Shareholders (Mitsubishi Electric), 'Technical Introduction of AI: Object Detection', Tomoya Sawada, May 2018.
 - Combined Exhibition of Advanced Technologies(CEATEC), 'Object Detection for Camera-Monitoring-System', Tomoya Sawada, Kazuyuki Miyazawa, March 2018.
 - IEEE SPECTRUM, 'AI-Aided Cameras Mean No More Car Mirrors, No More Blind Spots', 2018.
-- News Release, 'Mitsubishi Electric Develops Object-recognition Camera Technology Using Proprietary AI for Coming Mirrorless Cars', 2018.
+- News Release, 'Mitsubishi Electric Develops Object-recognition Camera Technology Using Proprietary AI for Coming Mirrorless Cars', 2018. <mitsubishielectric.co.jp/news/2018/pdf/0117.pdf>
 
 ### Patents
 - "配筋検査装置、学習装置、配筋検査システム及びプログラム"、宮本健、澤田友哉、（三菱電機株式会社）、出願番号 PCT/JP2022/039215.
