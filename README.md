@@ -70,7 +70,8 @@ T.Sawada, M.Toyoura, X.Mao (2012, March) 'Using Eye-tracking Data for Automatic 
 - M. Toyoura, T. Sawada, M. Kunihiro, X. Mao (2012, March) 'Using Eye‐Tracking Data for Automatic Film Comic Creation', ACM Simposium on Eye Tracking Research & Applications(ETRA), pp. 373‐376.
 
 ### Exhibition and Publication
-- The Institute of Image Information and Television Engineers, '"Go beyond Artificial Intelligence, towards Augmented Intelligence", Tomoya Sawada, Vol.76, No.4, pp. 485-488, 2022. <https://www.ite.or.jp/contents/kirari/2207kirari.pdf>
+- Intel Corporation Technical Paper, 'Introducing the latest research and development using the OpenVINO™ toolkit to seamlessly leverage deep learning from edge to cloud', Tomoya Sawada, March 2023. <https://www.intel.co.jp/content/www/jp/ja/internet-of-things/openvino/openvino-methodology-seamlessly-leveraging-dl-e2c.html>
+- The Institute of Image Information and Television Engineers, 'Go beyond Artificial Intelligence, towards Augmented Intelligence', Tomoya Sawada, Vol.76, No.4, pp. 485-488, 2022. <https://www.ite.or.jp/contents/kirari/2207kirari.pdf>
 - MITSUBISHI ELECTRIC Technical Report, 'Expanding Digital Transformation Creates Customer Value Utilizing AI Technology 'Maisart'', Tomoya Sawada, Keisuke Watanabe, Vol.96, No.2, pp.10-13, 2022. <https://www.giho.mitsubishielectric.co.jp/giho/pdf/2022/2202103.pdf>
 - CES, 'Realtime Object Detection for Camera-Monitoring-System', Tomoya Sawada, Masahiro Mizuno, January 2020.
 - News Release, 'Mitsubishi Electric Develops Compact-GAN', 2019. <https://www.mitsubishielectric.co.jp/news/2019/pdf/0131.pdf>
