@@ -106,7 +106,9 @@ T.Sawada, M.Toyoura, X.Mao (2012, March) 'Using Eye-tracking Data for Automatic 
 - "移動体検出装置およびその方法"、澤田友哉、三嶋英俊 、前原秀明 、守屋芳美 、宮澤一之 、峯澤彰 、日野百代 、王夢雄 、澁谷直大、(三菱電機株式会社)、登録番号　06230751.
 - "映像処理装置および方法"、宮澤一之 、関口俊一 、前原秀明 、守屋芳美 、峯澤彰 、服部亮史 、長瀬百代 、澤田友哉、(三菱電機株式会社)、登録番号　06116765.
 - "ネットワークシステム、ノード装置群、センサ機器群、サーバ装置群およびセンサデータ送受信方法"、峯澤彰 、宮澤一之 、服部亮史 、長瀬百代、澤田友哉、守屋芳美 、関口俊一 、(三菱電機株式会社)、出願番号　2016196292.
+
 --
+
 (PCT Application)
 - "LABELING DEVICE AND LEARNING DEVICE", Tomoya SAWADA, Ken FUKUCHI, Yoshimi MORIYA, (MITSUBISHI ELECTRIC CORPORATION), Publication number: 20220366676. 
 - "OBJECT DETECTION DEVICE, MONITORING DEVICE, TRAINING DEVICE, AND MODEL GENERATION METHOD", Tomoya SAWADA, Ken FUKUCHI, (MITSUBISHI ELECTRIC CORPORATION), Publication number: WO/2022/137476 .
