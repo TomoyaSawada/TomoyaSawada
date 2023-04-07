@@ -6,8 +6,8 @@ Tomoya Sawada is a Research Scientist/Engineer in Computer Vision at Mitsubishi 
 
 ### Experience  
 April 2023 - `researcher/Manager, Mitsubishi Electric`  
-Business Intelligence Strategic Promotion Dept.
-DX Innovation Center
+Business Intelligence Strategic Promotion Dept.  
+DX Innovation Center  
 MITSUBISHI ELECTRIC CORPORATION, Headquarters.  
 
 April 2021 - `Researcher/Manager, Mitsubishi Electric`  
