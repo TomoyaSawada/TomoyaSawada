@@ -1,5 +1,5 @@
 ## Tomoya SAWADA  
-Tomoya Sawada is a Research Scientist/Engineer in Computer Vision at Mitsubishi Electric. He graduated from Yamanashi University, Japan in 2012, and has received M.Sc. and Ph.D. degree from the department of computer science at the Yamanashi University, Japan in 2014 and 2015. His research interests include scene understanding such as object detection/semantic segmentation/object tracking/action recognition, AI assisted user interface, generating the natural scene using GANs, multimodal learning and domain shift/adaptation/transfer. 
+Tomoya Sawada is a Research Scientist/Engineer in Computer Vision at Mitsubishi Electric. He graduated from Yamanashi University, Japan in 2012, and has received M.Sc. and Ph.D. degree from the department of computer science at the Yamanashi University, Japan in 2014 and 2015. His research interests include scene understanding such as object detection/semantic segmentation/object tracking/action recognition, AI assisted user interface, generating the natural scene using GANs/Diffusion model, multimodal learning and domain shift/adaptation/transfer. 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://aws.amazon.com/?nc1=h_ls" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
@@ -37,16 +37,16 @@ Smart Information Processing Technology Dept.
 INFORMATION TECHNOLOGY R&D CENTER  
 
 ### Education
-1. Ph.D in Computer Science, University of Yamanashi, 2015.  
+1. CEFR C1 (Advanced Level), Completed a 272 lesson program, St Giles International Language Centres(Canada) Ltd., 2020.
+2. Ph.D in Computer Science, University of Yamanashi, 2015.  
 'Sequential Images Summarization based on Viewer's Interests and Aesthetic Composition'  
 (Advisor: Professor Xiaoyang Mao, Associate Professor Masahiro Toyoura)
-2. M.S. in Computer Science, University of Yamanashi, 2014.  
+3. M.S. in Computer Science, University of Yamanashi, 2014.  
 'Film Comic Generation based on Viewer's Interests and Aesthetic Composition' (Best Presentation Award)  
 (Advisor: Professor Xiaoyang Mao, Associate Professor Masahiro Toyoura)
-3. B.S. in Engineering, University of Yamanashi, 2012.  
+4. B.S. in Engineering, University of Yamanashi, 2012.  
 'Automatic Film Comic Generation with Eye-tracking data' (Best Presentation Award)  
-(Advisor: Professor Xiaoyang Mao, Associate Professor Masahiro Toyoura)
-4. CEFR C1 (Advanced Level), Completed a 272 lesson program, St Giles International Language Centres(Canada) Ltd., 2020.
+(Advisor: Professor Xiaoyang Mao, Associate Professor Masahiro Toyoura) 
 
 ### Awards  
 - Director of Export Control Yoshifumi Sakamoto Award, T.Sawada(2022, June) 'Realization of data handling with risk minimization in overseas cloud for data linkage and data-driven business', Mitsubishi Electric Corporation. 
@@ -74,6 +74,7 @@ T.Sawada, M.Toyoura, X.Mao (2012, March) 'Using Eye-tracking Data for Automatic 
 - M. Toyoura, T. Sawada, M. Kunihiro, X. Mao (2012, March) 'Using Eye‐Tracking Data for Automatic Film Comic Creation', ACM Simposium on Eye Tracking Research & Applications(ETRA), pp. 373‐376.
 
 ### Exhibition and Publication
+- Qiita, 'CVPR2023 Paper Introduction', Tomoya Sawada, June 2023. <https://qiita.com/tags/cvpr2023>
 - Intel Corporation Technical Paper, 'Introducing the latest research and development using the OpenVINO™ toolkit to seamlessly leverage deep learning from edge to cloud', Tomoya Sawada, March 2023. <https://www.intel.co.jp/content/www/jp/ja/internet-of-things/openvino/openvino-methodology-seamlessly-leveraging-dl-e2c.html>
 - The Institute of Image Information and Television Engineers, 'Go beyond Artificial Intelligence, towards Augmented Intelligence', Tomoya Sawada, Vol.76, No.4, pp. 485-488, 2022. <https://www.ite.or.jp/contents/kirari/2207kirari.pdf>
 - MITSUBISHI ELECTRIC Technical Report, 'Expanding Digital Transformation Creates Customer Value Utilizing AI Technology 'Maisart'', Tomoya Sawada, Keisuke Watanabe, Vol.96, No.2, pp.10-13, 2022. <https://www.giho.mitsubishielectric.co.jp/giho/pdf/2022/2202103.pdf>
@@ -130,7 +131,7 @@ T.Sawada, M.Toyoura, X.Mao (2012, March) 'Using Eye-tracking Data for Automatic 
 - 澤田 友哉，豊浦 正広，茅 暁陽，“フィルムコミックの自動生成における視線情報の利用”，情報処理学会全国大会，1Q-9，2012-3
 
 ### Reviewer
-The Visual Computer(2022, 2021, 2020), CDS-trans(2020)
+The Visual Computer(2020-2023), CDS-trans(2020)
 
 <!--
 **kei-ts/kei-ts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
