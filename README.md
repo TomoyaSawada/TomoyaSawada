@@ -38,10 +38,10 @@ INFORMATION TECHNOLOGY R&D CENTER
 
 ### Education
 1. CEFR C1 (Advanced Level), Completed a 272 lesson program, St Giles International Language Centres(Canada) Ltd., 2020.
-2. Ph.D in Computer Science, University of Yamanashi, 2015.  
+2. Ph.D in Computer Science(GPA 3.8), University of Yamanashi, 2015.  
 'Sequential Images Summarization based on Viewer's Interests and Aesthetic Composition'  
 (Advisor: Professor Xiaoyang Mao, Associate Professor Masahiro Toyoura)
-3. M.S. in Computer Science, University of Yamanashi, 2014.  
+3. M.S. in Computer Science(GPA 3.6), University of Yamanashi, 2014.  
 'Film Comic Generation based on Viewer's Interests and Aesthetic Composition' (Best Presentation Award)  
 (Advisor: Professor Xiaoyang Mao, Associate Professor Masahiro Toyoura)
 4. B.S. in Engineering, University of Yamanashi, 2012.  
