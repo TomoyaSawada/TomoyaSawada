@@ -36,6 +36,9 @@ Image Analytics and Processing Technology Group,
 Smart Information Processing Technology Dept.  
 INFORMATION TECHNOLOGY R&D CENTER  
 
+### Reviewer
+The Visual Computer(2020-2023), CDS-trans(2020)
+
 ### Education
 1. CEFR C1 (Advanced Level), Completed a 272 lesson program, St Giles International Language Centres(Canada) Ltd., 2020.
 2. Ph.D in Computer Science(GPA 3.8), University of Yamanashi, 2015.  
@@ -132,8 +135,6 @@ T.Sawada, M.Toyoura, X.Mao (2012, March) 'Using Eye-tracking Data for Automatic 
 - 澤田 友哉，豊浦 正広，茅 暁陽，“視線情報を利用した映像からのコミック自動生成システム”，やまなし産学官連携研究交流事業，Article 17，2012-9
 - 澤田 友哉，豊浦 正広，茅 暁陽，“フィルムコミックの自動生成における視線情報の利用”，情報処理学会全国大会，1Q-9，2012-3
 
-### Reviewer
-The Visual Computer(2020-2023), CDS-trans(2020)
 
 <!--
 **kei-ts/kei-ts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
