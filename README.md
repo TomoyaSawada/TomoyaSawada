@@ -37,7 +37,8 @@ Smart Information Processing Technology Dept.
 INFORMATION TECHNOLOGY R&D CENTER  
 
 ### Reviewer
-The Visual Computer(2020-2023), CDS-trans(2020)
+- The Visual Computer, International Journal of Computer Graphics(2020-2023)
+- Consumer Device & System(CDS) Transaction, Information Processing Society of Japan(2020)
 
 ### Education
 1. CEFR C1 (Advanced Level), Completed a 272 lesson program, St Giles International Language Centres(Canada) Ltd., 2020.
