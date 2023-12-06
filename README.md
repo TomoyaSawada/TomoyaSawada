@@ -6,7 +6,7 @@ Tomoya Sawada is a Research Scientist/Engineer in Computer Vision at Mitsubishi 
 
 ### Experience  
 July 2023 - `Joint Research, The University of Tokyo Matsuo Laboratory`  
-Research on Generative AI for Industries, adopting various IoT devices
+Research on Generative AI for Industries, adopting various IoT devices  
 Collaborate with: Rei Araki, Takaomi Hasegawa, Tadahiro Shidara, Keichi Yokoyama
 
 April 2023 - `Researcher/Manager, Mitsubishi Electric`  
