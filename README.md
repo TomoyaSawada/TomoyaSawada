@@ -1,11 +1,14 @@
-## Tomoya SAWADA  
+## Tomoya Sawada, Ph.D. 
 Tomoya Sawada is a Research Scientist/Engineer in Computer Vision at Mitsubishi Electric. He graduated from Yamanashi University, Japan in 2012, and has received M.Sc. and Ph.D. degree from the department of computer science at the Yamanashi University, Japan in 2014 and 2015. His research interests include scene understanding such as object detection/semantic segmentation/object tracking/action recognition, AI assisted user interface, generating the natural scene using GANs/Diffusion model, multimodal learning and domain shift/adaptation/transfer. 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://aws.amazon.com/?nc1=h_ls" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-### Experience  
-July 2023 - `Joint Research, The University of Tokyo Matsuo Laboratory`  
+### Working Experience  
+<details>
+<summary>July 2023 - `Joint Research, The University of Tokyo Matsuo Laboratory`</summary>
+   In this project, we use generative AI to control the optimal temperature settings of air conditioners. When there are multiple air conditioners in a room, generatie AI is used to control them in a way that maintains comfort while minimizing electricity consumption. 
+</details>
 Research on Generative AI for Industries, adopting various IoT devices  
 Collaborate with: Rei Araki, Takaomi Hasegawa, Tadahiro Shidara, Keichi Yokoyama
 
@@ -40,7 +43,7 @@ Image Analytics and Processing Technology Group,
 Smart Information Processing Technology Dept.  
 INFORMATION TECHNOLOGY R&D CENTER  
 
-### Reviewer
+### Professional Activities
 - The Visual Computer, International Journal of Computer Graphics(2020-2023)
 - Consumer Device & System(CDS) Transaction, Information Processing Society of Japan(2020)
 
