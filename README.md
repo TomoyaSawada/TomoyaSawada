@@ -6,34 +6,62 @@ Tomoya Sawada is a Research Scientist/Engineer in Computer Vision at Mitsubishi 
 
 ### Working Experience  
 <details>
-<summary>July 2023 - `Joint Research, The University of Tokyo Matsuo Laboratory`</summary>
-   In this project, we use generative AI to control the optimal temperature settings of air conditioners. When there are multiple air conditioners in a room, generatie AI is used to control them in a way that maintains comfort while minimizing electricity consumption. 
-</details>
-Research on Generative AI for Industries, adopting various IoT devices  
-Collaborate with: Rei Araki, Takaomi Hasegawa, Tadahiro Shidara, Keichi Yokoyama
-
-April 2023 - `Researcher/Manager, Mitsubishi Electric`  
-Business Intelligence Strategic Promotion Dept.  
-DX Innovation Center.  
-MITSUBISHI ELECTRIC CORPORATION, Headquarters.  
-
-April 2021 - `Researcher/Manager, Mitsubishi Electric`  
-Maisart Co-Innovation Center,  
-Business Innovation & DX Strategy Div.  
-MITSUBISHI ELECTRIC CORPORATION, Headquarters.  
+<summary>July 2023 - Joint Research, The University of Tokyo (Matsuo Laboratory)   
    
-October 2018 - October 2021,  `Joint Research, Massachusetts Institute of Technology(MIT)`  
+Research on Generative AI for Industries, adopting various IoT devices  
+Collaborate with: Rei Araki, Takaomi Hasegawa, Tadahiro Shidara, Keichi Yokoyama</summary>
+
+   In this project, we use generative AI to control the optimal temperature settings of air conditioners. When there are multiple air conditioners in a room, generatie AI is used to control them in a way that maintains comfort for office workers while minimizing total electricity consumption. 
+</details>
+
+<details>
+<summary>April 2023 - Researcher/Manager, Mitsubishi Electric
+   
+Business Intelligence Strategic Promotion Dept., DX Innovation Center.  
+Managing Executive Office: Hiroshi Sakakibara CDO, Executive Officer: Nobuo Asahi  
+MITSUBISHI ELECTRIC CORPORATION, Headquarters.  </summary>  
+
+I have advanced research on generative AI as an expert in this organization, and have been involved in its practical application in business from planning to implementation. I have also been actively expanding my connections with partner companies to promote its social implementation.  
+</details>
+
+<details>
+<summary>April 2021 - March 2023, Researcher/Manager, Mitsubishi Electric
+
+Maisart Co-Innovation Center, Business Innovation & DX Strategy Div.  
+Managing Executive Office: Hiroshi Sakakibara CDO, Executive Officer: Tomoki Ichikawa, Takashi Mizuochi, Ph.D  
+MITSUBISHI ELECTRIC CORPORATION, Headquarters.  </summary>  
+
+I have used Amazon's Working Backwards method to develop new business from the customer's point of view. I have also provided consulting services as an AI expert, proposing altorithms to solve vustomer problems and considering the profitability of business. 
+</details>
+
+<details>
+<summary>October 2018 - October 2021, Joint Research, Massachusetts Institute of Technology(MIT)
+   
 Research on Generative Adversarial Networks(GAN), Annotation System for Semantic Segmentation  
-Collaborate with: Professor Antonio Torralba
+Collaborate with: Professor Antonio Torralba</summary>
 
-May,December 2019, `Visiting Researcher, Mitsubishi Electric Research Laboratory(MERL)`  
+Generative Adversarial Networks(GANs) have been used to generate images with high resolution. However, the placement and detail of the individual parts were not natural. In this project, we developed a method based on the SPADE network to generate images with natural object placement and detail granularity. We also developed a tool for automatic annotation to enable a smooth transition from data aquisition to learning.
+</details>
+
+<details>
+<summary>May,December 2019, Visiting Researcher, Mitsubishi Electric Research Laboratory(MERL)  
 Research on Object Detection/Segmentation, Face Recognition and Video Anomaly Detection  
-Advisors: Michael Jones, Tim Marks, Anoop Cherian, Teng-yok Lee and Alan Sullivan  
+Advisors: Michael Jones, Tim Marks, Anoop Cherian, Teng-yok Lee and Alan Sullivan  </summary>
 
-October 2017 - October 2018, `Joint Research, FreshlyGround Pte Ltd.`  
+In this project, I developed a variety of computer vision technologies: 
+- **Object Detection**: I developed an object detection system for the Camera Monitoring System(CMS) of car manufacturing products. This system uses deep learning to identify vehicles and other objects around the car using a camera mounted in the rearview mirrors.
+- **Semantic Segmentation**: I developed a system for automatically extracting people from video footage captured by surveillance cameras. This system uses a combination of computer vision techniques like background subtraction and deep learning to segment people from other objects in the scene.
+- **Face recognition**:  I developed a face recognition system that can identif people from high/low-angle images, such as those captured by surveillance cameras. This system was trained on a large dataset of human faces, and it can accurately identify people even in challenging conditions like poor lightining and occulusion.
+- **Anomalous behavior detections**: I developed a system for detecting anomalous behavior in video footage. This system uses a deep learning-based model to learn the patterns of normal behavior and identify any deviations from these patterns.
+</details>
+
+<details>
+<summary>October 2017 - October 2018, `Joint Research, FreshlyGround Pte Ltd.`  
 Research on Design Thinking, Business Incubation  
-Collaborate with: Thierry DO, Shang LIM
-  
+Collaborate with: Thierry DO, Shang LIM  </summary>
+
+   In this project, we proposed a system that improves the quality of customer service in Singaporean hotels by using wearable devices such as camera-equipped smart glasses. The system performs real-time facial recognition to identify customers and displays their information on the display of the smart glasses. We developed a protogype ad demonstrated its value to several hotel operators. We also learned how to create customer value by applying Design Thinking method.
+   
 October 2016 - October 2018, `Joint Research, University of Southern California(USC)`  
 Research on Graph Signal Processing  
 Collaborate with: Professor Antonio Ortega
