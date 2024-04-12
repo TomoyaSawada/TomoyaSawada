@@ -44,7 +44,7 @@ Generative Adversarial Networks(GANs) have been used to generate images with hig
 </details>
 
 <details>
-<summary>May,December 2019, Visiting Researcher, Mitsubishi Electric Research Laboratory(MERL)  
+<summary>May,December 2019, Visiting Researcher, Mitsubishi Electric Research Laboratory(MERL)   
 Research on Object Detection/Segmentation, Face Recognition and Video Anomaly Detection  
 Advisors: Michael Jones, Tim Marks, Anoop Cherian, Teng-yok Lee and Alan Sullivan  </summary>
 
