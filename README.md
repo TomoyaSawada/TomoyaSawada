@@ -61,7 +61,8 @@ Research on Design Thinking, Business Incubation
 Collaborate with: Thierry DO, Shang LIM  </summary>
 
    In this project, we proposed a system that improves the quality of customer service in Singaporean hotels by using wearable devices such as camera-equipped smart glasses. The system performs real-time facial recognition to identify customers and displays their information on the display of the smart glasses. We developed a protogype ad demonstrated its value to several hotel operators. We also learned how to create customer value by applying Design Thinking method.
-   
+</details>   
+
 October 2016 - October 2018, `Joint Research, University of Southern California(USC)`  
 Research on Graph Signal Processing  
 Collaborate with: Professor Antonio Ortega
