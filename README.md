@@ -1,17 +1,3 @@
-
-<!-- Widget JavaScript bundle -->
-<script src="https://cloud.google.com/ai/gen-app-builder/client?hl=ja"></script>
-
-<!-- Search widget element is not visible by default -->
-<gen-search-widget
-  configId="81bc2105-c605-4333-b09a-460bb4971d6f"
-  triggerId="searchWidgetTrigger">
-</gen-search-widget>
-
-<!-- Element that opens the widget on click. It does not have to be an input -->
-<input placeholder="ここで検索" id="searchWidgetTrigger" />
-
-
 ## Tomoya Sawada, Ph.D. 
 Tomoya Sawada is a Research Scientist/Engineer in Computer Vision at Mitsubishi Electric. He graduated from Yamanashi University, Japan in 2012, and has received M.Sc. and Ph.D. degree from the department of computer science at the Yamanashi University, Japan in 2014 and 2015. His research interests include scene understanding such as object detection/semantic segmentation/object tracking/action recognition, AI assisted user interface, generating the natural scene using GANs/Diffusion model, multimodal learning and domain shift/adaptation/transfer. 
 
