@@ -143,6 +143,9 @@ T.Sawada, M.Toyoura, X.Mao (2012, March) 'Using Eye-tracking Data for Automatic 
 - M. Toyoura, T. Sawada, M. Kunihiro, X. Mao (2012, March) 'Using Eye‐Tracking Data for Automatic Film Comic Creation', ACM Simposium on Eye Tracking Research & Applications(ETRA), pp. 373‐376.
 
 ### Exhibition and Publication
+- Dataiku Everyday AI Tokyo (presentation), 'Democratizing Generative AI with AI Platforms: Harnessing the Power and Potential of Multimodal Generative AI', Tomoya Sawada, July 2024. <https://events.dataiku.com/everyday-ai-summit-tokyo>
+- SORACOM Discovery (presentation), 'Mitsubishi Electric's Foray into Generative AI for Manufacturing: Applications and Case Studies', Tomoya Sawada, Keiichi Yokoyama, Yuta Imai, July 2024. <https://discovery.soracom.jp/2024/session/detail/sd006.html>
+- News Release, 'Mitsubishi Electric, Soracom, and Matsuo Institute's "IoT × GenAI Lab" Conduct Proof-of-Concept Experiment on Air Conditioner Control Using IoT and Generative AI', SORACOM Inc., July 2024. <https://soracom.com/ja/news/20240711-iot-genai-poc-report>
 - Qiita, 'ICCV2023 Paper Introduction', Tomoya Sawada, October 2023. <https://qiita.com/tags/iccv2023>
 - Qiita, 'CVPR2023 Paper Introduction', Tomoya Sawada, June 2023. <https://qiita.com/tags/cvpr2023>
 - Intel Corporation Technical Paper, 'Introducing the latest research and development using the OpenVINO™ toolkit to seamlessly leverage deep learning from edge to cloud', Tomoya Sawada, March 2023. <https://www.intel.co.jp/content/www/jp/ja/internet-of-things/openvino/openvino-methodology-seamlessly-leveraging-dl-e2c.html>
