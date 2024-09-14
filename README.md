@@ -133,6 +133,7 @@ T.Sawada, M.Toyoura, X.Mao (2012, March) 'Using Eye-tracking Data for Automatic 
 - T.Sawada, M.Toyoura, X.Mao (2013, September) 'Automatic Film Comic Generation Using iMap', The Journal of the Institute of Image Electronics Engineers of Japan, Vol. 42, No. 5, pp. 671‐680.
 
 ### International Conference (Refereed)
+- T. Sawada, H. Hasegawa, K. Yokoyama, "Office-in-the-Loop for Building HVAC Control," 2024 The 11th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys 2024), November, 2024, Hangzhou, China.
 - T. Sawada and M. Nakamura, "INTELLIGENT WARNING SYSTEM MONITORING VEHICLE SURROUNDING AND DRIVER'S BEHAVIOR," 2022 IEEE International Conference on Multimedia and Expo Workshops (ICMEW), July, 2022, Taipei City, Taiwan, pp. 1-4, doi: 10.1109/ICMEW56448.2022.9859326.
 - T. Sawada, T. -Y. Lee and M. Mizuno, "VIDEO OBJECT SEGMENTATION WITH ONLINE MASK REFINEMENT," 2022 IEEE International Conference on Multimedia and Expo Workshops (ICMEW), July, 2022, Taipei City, Taiwan, pp. 1-4, doi: 10.1109/ICMEW56448.2022.9859386.
 - T. Sawada, T. -Y. Lee and M. Mizuno, "Bottom-Up Saliency Meets Top-Down Semantics For Object Detection," 2021 IEEE International Conference on Image Processing (ICIP), 2021, pp. 729-733, doi: 10.1109/ICIP42928.2021.9506475.
@@ -143,8 +144,13 @@ T.Sawada, M.Toyoura, X.Mao (2012, March) 'Using Eye-tracking Data for Automatic 
 - M. Toyoura, T. Sawada, M. Kunihiro, X. Mao (2012, March) 'Using Eye‐Tracking Data for Automatic Film Comic Creation', ACM Simposium on Eye Tracking Research & Applications(ETRA), pp. 373‐376.
 
 ### Exhibition and Publication
-- Dataiku Everyday AI Tokyo (presentation), 'Democratizing Generative AI with AI Platforms: Harnessing the Power and Potential of Multimodal Generative AI', Tomoya Sawada, July 2024. <https://events.dataiku.com/everyday-ai-summit-tokyo>
-- SORACOM Discovery (presentation), 'Mitsubishi Electric's Foray into Generative AI for Manufacturing: Applications and Case Studies', Tomoya Sawada, Keiichi Yokoyama, Yuta Imai, July 2024. <https://discovery.soracom.jp/2024/session/detail/sd006.html>
+- Dataiku Everyday AI Tokyo (presentation), 'Democratizing Generative AI with AI Platforms: Harnessing the Power and Potential of Multimodal Generative AI', Tomoya Sawada, July 2024.
+  - <https://events.dataiku.com/everyday-ai-summit-tokyo>
+  - <https://news.mynavi.jp/techplus/article/20240725-2992336/>
+- SORACOM Discovery (presentation), 'Mitsubishi Electric's Foray into Generative AI for Manufacturing: Applications and Case Studies', Tomoya Sawada, Keiichi Yokoyama, Yuta Imai, July 2024.
+  - <https://discovery.soracom.jp/2024/session/detail/sd006.html>
+  - <https://dcross.impress.co.jp/docs/talk/003728.html>
+  - <https://ascii.jp/elem/000/004/217/4217392/>
 - News Release, 'Mitsubishi Electric, Soracom, and Matsuo Institute's "IoT × GenAI Lab" Conduct Proof-of-Concept Experiment on Air Conditioner Control Using IoT and Generative AI', SORACOM Inc., July 2024. <https://soracom.com/ja/news/20240711-iot-genai-poc-report>
 - Qiita, 'CVPR2024 Paper Introduction', Tomoya Sawada, June 2024. <https://qiita.com/tags/cvpr2024>
 - Qiita, 'NeurIPS2023 Paper Introduction', Tomoya Sawada, December 2023. <https://qiita.com/tags/neurips2023>
