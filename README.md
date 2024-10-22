@@ -144,6 +144,7 @@ T.Sawada, M.Toyoura, X.Mao (2012, March) 'Using Eye-tracking Data for Automatic 
 - M. Toyoura, T. Sawada, M. Kunihiro, X. Mao (2012, March) 'Using Eye‐Tracking Data for Automatic Film Comic Creation', ACM Simposium on Eye Tracking Research & Applications(ETRA), pp. 373‐376.
 
 ### Exhibition and Publication
+- Dataiku Community Event (presentation), 'Let's ideate the future of manufacturing powered by generative AI!', Tomoya Sawada, October 2024. <https://techplay.jp/event/957075?utm_source=notifyApplicant&utm_medium=email&utm_campaign=tp_20241016>
 - Dataiku Everyday AI Tokyo (presentation), 'Democratizing Generative AI with AI Platforms: Harnessing the Power and Potential of Multimodal Generative AI', Tomoya Sawada, July 2024.
   - <https://events.dataiku.com/everyday-ai-summit-tokyo>
   - <https://news.mynavi.jp/techplus/article/20240725-2992336/>
