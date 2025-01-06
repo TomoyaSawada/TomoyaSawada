@@ -129,8 +129,9 @@ T.Sawada (2014, March), Repayment Exemption for Students with Excellent Grades -
 T.Sawada, M.Toyoura, X.Mao (2012, March) 'Using Eye-tracking Data for Automatic Film Comic Generation', Forum on Art and Science. 
 
 ### Journal Articles
-- T.Sawada,  Y.Goto,  M.Toyoura,  X.Mao,  J.Gyoba (2015, June) 'Saliency Map for Images with Leading Lines', IEICE‐JA, Vol.J98‐A,  No.6, pp.446‐449.  
+- T.Sawada,  Y.Goto,  M.Toyoura,  X.Mao,  J.Gyoba (2015, June) 'Saliency Map for Images with Leading Lines', The Journal of the Institute of Electronics, Information and Communication Engineers, Vol.J98‐A,  No.6, pp.446‐449.  
 - T.Sawada, M.Toyoura, X.Mao (2013, September) 'Automatic Film Comic Generation Using iMap', The Journal of the Institute of Image Electronics Engineers of Japan, Vol. 42, No. 5, pp. 671‐680.
+- T.Sawada, M.Toyoura, X.Mao (2012, March) 'Automatic Creation of Film Comic Using Eye-Tracking Data', The Technical Letter of the Institute of Image Information and Television Engineers, Vol. 36, No.16, pp. 153-156. 
 
 ### International Conference (Refereed)
 - T. Sawada, H. Hasegawa, K. Yokoyama, M. Mizuno,"Office-in-the-Loop for Building HVAC Control with Multimodal Foundation Models," 2024 The 11th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys 2024), November, 2024, Hangzhou, China. doi: 10.1145/3671127.3698182.
@@ -199,11 +200,13 @@ T.Sawada, M.Toyoura, X.Mao (2012, March) 'Using Eye-tracking Data for Automatic 
 --
 
 (PCT Application)
-- "Inference device, inference method, and non-transitory computer-readable medium", Tomoya SAWADA, (MITSUBISHI ELECTRIC CORPORATION)," 62023078099.6
-- "Inference device, inference method, and non-transitory computer-readable medium", Tomoya SAWADA, (MITSUBISHI ELECTRIC CORPORATION), CA3193358A1. 
+- "TRAINED MODEL GENERATION SYSTEM, TRAINED MODEL GENERATION METHOD, INFORMATION PROCESSING DEVICE, NON-TRANSITORY COMPUTER-READABLE STORAGE MEDIUM, TRAINED MODEL, AND ESTIMATION DEVICE", Tomoya SAWADA, (MITSUBISHI ELECTRIC CORPORATION), 20240249178
+- "LEARNING DEVICE", Tomoya SAWADA, (MITSUBISHI ELECTRIC CORPORATION), Publication number: 20230394807 
+- "Inference device, inference method, and non-transitory computer-readable medium", Tomoya SAWADA, (MITSUBISHI ELECTRIC CORPORATION), 62023078099.6, 20240362901 
+- "Inference device, inference method, and non-transitory computer-readable medium", Tomoya SAWADA, (MITSUBISHI ELECTRIC CORPORATION), CA3193358A1.,  20240046512 
 - "Dispositif d'étiquetage et dispositif d'apprentissage", Tomoya SAWADA, Ken FUKUCHI, Yoshimi MORIYA, (MITSUBISHI ELECTRIC CORPORATION), EP4099263A4.
 - "LABELING DEVICE AND LEARNING DEVICE", Tomoya SAWADA, Ken FUKUCHI, Yoshimi MORIYA, (MITSUBISHI ELECTRIC CORPORATION), Publication number: 20220366676. 
-- "OBJECT DETECTION DEVICE, MONITORING DEVICE, TRAINING DEVICE, AND MODEL GENERATION METHOD", Tomoya SAWADA, Ken FUKUCHI, (MITSUBISHI ELECTRIC CORPORATION), Publication number: WO/2022/137476 .
+- "OBJECT DETECTION DEVICE, MONITORING DEVICE, TRAINING DEVICE, AND MODEL GENERATION METHOD", Tomoya SAWADA, Ken FUKUCHI, (MITSUBISHI ELECTRIC CORPORATION), Publication number: 20230410532
 - "OBJECT DETECTION DEVICE, MONITORING DEVICE, AND LEARNING DEVICE", Tomoya SAWADA, Ken FUKUCHI, Yoshimi MORIYA, (MITSUBISHI ELECTRIC CORPORATION), Publication number: WO/2021/130881.
 - "ACCIDENT INFORMATION COLLECTION SYSTEM, AND ACCIDENT INFORMATION COLLECTION METHOD", Kazuyuki MIYAZAWA, Shunichi SEKIGUCHI, Hideaki MAEHARA, Yoshimi MORIYA, Akira MINEZAWA, Ryoji HATTORI, Momoyo HINO, Tomoya SAWADA, Naohiro SHIBUYA, (MITSUBISHI ELECTRIC CORPORATION), Publication number: 20190193659. 
 - "Object detection device and object detection method", Tomoya Sawada, Hidetoshi Mishima, Hideaki Maehara, Yoshimi Moriya, Kazuyuki Miyazawa, Akira Minezawa, Momoyo Hino, Mengxiong Wang, Naohiro Shibuya, (MITSUBISHI ELECTRIC CORPORATION), Patent number: 10943141. 
