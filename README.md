@@ -134,7 +134,7 @@ T.Sawada, M.Toyoura, X.Mao (2012, March) 'Using Eye-tracking Data for Automatic 
 - T.Sawada, M.Toyoura, X.Mao (2012, March) 'Automatic Creation of Film Comic Using Eye-Tracking Data', The Technical Letter of the Institute of Image Information and Television Engineers, Vol. 36, No.16, pp. 153-156. 
 
 ### International Conference (Refereed)
-- T. Sawada, H. Hasegawa, K. Yokoyama, M. Mizuno,"Office-in-the-Loop for Building HVAC Control with Multimodal Foundation Models," 2024 The 11th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys 2024), November, 2024, Hangzhou, China. doi: 10.1145/3671127.3698182.
+- T. Sawada, H. Hasegawa, K. Yokoyama, M. Mizuno,"Office-in-the-Loop for Building HVAC Control with Multimodal Foundation Models," 2024 The 11th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys 2024), November, 2024, Hangzhou, China, pp.110-120, doi: 10.1145/3671127.3698182.
 - T. Sawada and M. Nakamura, "INTELLIGENT WARNING SYSTEM MONITORING VEHICLE SURROUNDING AND DRIVER'S BEHAVIOR," 2022 IEEE International Conference on Multimedia and Expo Workshops (ICMEW), July, 2022, Taipei City, Taiwan, pp. 1-4, doi: 10.1109/ICMEW56448.2022.9859326.
 - T. Sawada, T. -Y. Lee and M. Mizuno, "VIDEO OBJECT SEGMENTATION WITH ONLINE MASK REFINEMENT," 2022 IEEE International Conference on Multimedia and Expo Workshops (ICMEW), July, 2022, Taipei City, Taiwan, pp. 1-4, doi: 10.1109/ICMEW56448.2022.9859386.
 - T. Sawada, T. -Y. Lee and M. Mizuno, "Bottom-Up Saliency Meets Top-Down Semantics For Object Detection," 2021 IEEE International Conference on Image Processing (ICIP), 2021, pp. 729-733, doi: 10.1109/ICIP42928.2021.9506475.
