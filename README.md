@@ -6,16 +6,16 @@ Tomoya Sawada is a Research Scientist/Engineer in Computer Vision at Mitsubishi 
 
 ### Working Experience  
 <details>
-<summary>July 2023 - Joint Research, The University of Tokyo (Matsuo Laboratory)   
+<summary>July 2023 - March 2024, Joint Research, The University of Tokyo (Matsuo Laboratory)   
    
 Research on Generative AI for Industries, adopting various IoT devices  
 Collaborate with: Rei Araki, Takaomi Hasegawa, Tadahiro Shidara, Keichi Yokoyama</summary>
 
-   In this project, we use generative AI to control the optimal temperature settings of air conditioners. When there are multiple air conditioners in a room, generatie AI is used to control them in a way that maintains comfort for office workers while minimizing total electricity consumption. 
+   In this project, we investigates the potential of large language models (LLMs) for optimizing HVAC systems in real-world settings. While prior research has primarily focused on simulated environments, this study bridges the gap by deploying and evaluating an LLM-based control system in an actual office. The system collects real-time environmental data and occupant feedback on thermal comfort. This data, along with historical environmental and feedback information, is used to prompt the generative AI model, which predicts optimal HVAC setpoint temperatures throughout the day. The results demonstrate a significant reduction in power consumption (up to 47.92%, equivalent to 39.48 kWh) and a concurrent improvement in occupant comfort (up to 26.36%) compared to the baseline. Notably, regression analysis confirms that these improvements persist even after accounting for external factors such as outside temperature and occupancy. This study highlights the significant potential of generative AI for optimizing HVAC systems, enhancing both energy efficiency and occupant comfort in real-world scenarios. Future research will explore the scalability of this approach, targeting larger-scale building energy management systems in data centers and industrial facilities.
 </details>
 
 <details>
-<summary>April 2023 - Researcher/Manager, Mitsubishi Electric
+<summary>April 2023 - Principal Researcher, Mitsubishi Electric
    
 Business Intelligence Strategic Promotion Dept., DX Innovation Center.  
 Managing Executive Office: Hiroshi Sakakibara CDO, Executive Officer: Nobuo Asahi  
