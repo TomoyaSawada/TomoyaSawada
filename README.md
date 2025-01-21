@@ -21,7 +21,8 @@ Business Intelligence Strategic Promotion Dept., DX Innovation Center.
 Managing Executive Office: Hiroshi Sakakibara CDO, Executive Officer: Nobuo Asahi  
 MITSUBISHI ELECTRIC CORPORATION, Headquarters.  </summary>  
 
-   I have advanced research on generative AI as an expert in this organization, and have been involved in its practical application in business from planning to implementation. I have also been actively expanding my connections with partner companies to promote its social implementation.  
+   I have advanced research on generative AI as an expert in this organization, and have been involved in its practical application in business from planning to implementation. I have also been actively expanding my connections with partner companies to promote its social implementation. 
+   Conducted research on cutting-edge technologies, including generative AI, by attending international conferences and publishing hundreds of articles for the general public on community sites. Additionally, I have given multiple presentations at company-wide events with hundreds of attendees. Furthermore, I have contributed to the academic community as a reviewer for international journals. By conducting inquiries with industry analysts such as Gartner, I have provided timely suggestions on AI business strategies to company executives, contributing to their decision-making processes.
 </details>
 
 <details>
