@@ -105,7 +105,7 @@ INFORMATION TECHNOLOGY R&D CENTER  </summary>
 </details>
 
 ### Professional Activities
-- The Visual Computer, International Journal of Computer Graphics(2020-2023)
+- The Visual Computer, International Journal of Computer Graphics(2020-)
 - Consumer Device & System(CDS) Transaction, Information Processing Society of Japan(2020)
 
 ### Education
