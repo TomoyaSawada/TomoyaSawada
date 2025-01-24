@@ -21,8 +21,11 @@ Business Intelligence Strategic Promotion Dept., DX Innovation Center.
 Managing Executive Office: Hiroshi Sakakibara CDO, Executive Officer: Nobuo Asahi  
 MITSUBISHI ELECTRIC CORPORATION, Headquarters.  </summary>  
 
-   I have advanced research on generative AI as an expert in this organization, and have been involved in its practical application in business from planning to implementation. I have also been actively expanding my connections with partner companies to promote its social implementation. 
-   Conducted research on cutting-edge technologies, including generative AI, by attending international conferences and publishing hundreds of articles for the general public on community sites. Additionally, I have given multiple presentations at company-wide events with hundreds of attendees. Furthermore, I have contributed to the academic community as a reviewer for international journals. By conducting inquiries with industry analysts such as Gartner, I have provided timely suggestions on AI business strategies to company executives, contributing to their decision-making processes.
+  As a Principal Researcher, I lead research and development efforts to enhance the performance of Mitsubishi Electric's products using cutting-edge generative AI technologies such as Transformer models, Diffusion models, and GANs. This involves driving the practical application of generative AI across diverse business domains, including robotics, power systems, and air conditioning. Notably, our research on applying generative AI to air conditioning systems has been recognized with acceptance at a top-tier international conference, demonstrating strong academic impact.
+
+Furthermore, I have actively contributed to Mitsubishi Electric's data utilization strategy, playing a key role in the launch of the "Serendie" brand. This initiative has successfully established collaborations with key partners such as the University of Tokyo and Dataiku, fostering valuable external partnerships.
+
+In addition to these initiatives, I have shared my expertise by publishing hundreds of articles on Qiita, explaining complex AI concepts for the general public, including several featured articles. I have also presented research findings at company-wide technical conferences attended by hundreds of engineers and executives. My contributions to the academic community include serving as a reviewer for leading international journals in the field of AI. By conducting in-depth inquiries with industry analysts such as Gartner, I have provided timely recommendations on AI business strategies to company executives, directly contributing to strategic decision-making.
 </details>
 
 <details>
