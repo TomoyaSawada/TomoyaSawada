@@ -149,6 +149,8 @@ T.Sawada, M.Toyoura, X.Mao (2012, March) 'Using Eye-tracking Data for Automatic 
 - M. Toyoura, T. Sawada, M. Kunihiro, X. Mao (2012, March) 'Using Eye‐Tracking Data for Automatic Film Comic Creation', ACM Simposium on Eye Tracking Research & Applications(ETRA), pp. 373‐376.
 
 ### Exhibition and Publication
+- News Release, "Matsuo Institute's "IoT × GenAI Lab" Research Selected for Oral Presentation at BuildSys 2024", Matsuo Institute, November 2024. <https://matsuo-institute.com/2024/11/632/>
+- News Release, "Mitsubishi Electric, SORACOM, and Matsuo Institute's Joint Project "IoT × GenAI Lab" Announces Research Results at International Conference "BuildSys 2024"", SORACOM Inc., November 2024. <https://soracom.com/ja/news/20241118-use-of-iot-and-ai-in-hvac-control>
 - Dataiku Community Event (presentation), 'Let's ideate the future of manufacturing powered by generative AI!', Tomoya Sawada, October 2024. <https://techplay.jp/event/957075?utm_source=notifyApplicant&utm_medium=email&utm_campaign=tp_20241016>
 - Dataiku Everyday AI Tokyo (presentation), 'Democratizing Generative AI with AI Platforms: Harnessing the Power and Potential of Multimodal Generative AI', Tomoya Sawada, July 2024.
   - <https://events.dataiku.com/everyday-ai-summit-tokyo>
@@ -159,6 +161,7 @@ T.Sawada, M.Toyoura, X.Mao (2012, March) 'Using Eye-tracking Data for Automatic 
   - <https://dcross.impress.co.jp/docs/talk/003728.html>
   - <https://ascii.jp/elem/000/004/217/4217392/>
 - News Release, 'Mitsubishi Electric, Soracom, and Matsuo Institute's "IoT × GenAI Lab" Conduct Proof-of-Concept Experiment on Air Conditioner Control Using IoT and Generative AI', SORACOM Inc., July 2024. <https://soracom.com/ja/news/20240711-iot-genai-poc-report>
+- News Release, '"IoT × GenAI Lab" (Matsuo Institute x SORACOM) Conducts Field Test on AI-Powered HVAC Control with Mitsubishi Electric', Matsuo Institute, July 2024. <https://matsuo-institute.com/2024/07/584/>
 - Qiita, 'CVPR2024 Paper Introduction', Tomoya Sawada, June 2024. <https://qiita.com/tags/cvpr2024>
 - Qiita, 'NeurIPS2023 Paper Introduction', Tomoya Sawada, December 2023. <https://qiita.com/tags/neurips2023>
 - Qiita, 'ICCV2023 Paper Introduction', Tomoya Sawada, October 2023. <https://qiita.com/tags/iccv2023>
