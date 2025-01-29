@@ -167,13 +167,17 @@ T.Sawada, M.Toyoura, X.Mao (2012, March) 'Using Eye-tracking Data for Automatic 
 - The Institute of Image Information and Television Engineers, 'Go beyond Artificial Intelligence, towards Augmented Intelligence', Tomoya Sawada, Vol.76, No.4, pp. 485-488, 2022. <https://www.ite.or.jp/contents/kirari/2207kirari.pdf>
 - MITSUBISHI ELECTRIC Technical Report, 'Expanding Digital Transformation Creates Customer Value Utilizing AI Technology 'Maisart'', Tomoya Sawada, Keisuke Watanabe, Vol.96, No.2, pp.10-13, 2022. <https://www.giho.mitsubishielectric.co.jp/giho/pdf/2022/2202103.pdf>
 - CES, 'Realtime Object Detection for Camera-Monitoring-System', Tomoya Sawada, Masahiro Mizuno, January 2020.
-- News Release, 'Mitsubishi Electric Develops Attentive Notification for Drivers', 2019. <https://www.mitsubishielectric.co.jp/news/2019/0122-c.html>
-- News Release, 'Mitsubishi Electric Develops Compact-GAN', 2019. <https://www.mitsubishielectric.co.jp/news/2019/pdf/0131.pdf>
+- News Release, 'Mitsubishi Electric Develops Smart, Natural HMI for Smart Mobility', 2019. <https://www.mitsubishielectric.com/news/2019/0122-c.html>
+- News Release, 'Mitsubishi Electric Develops Compact-GAN', 2019. <https://www.mitsubishielectric.com/news/2019/0131.html>
 - Advanced Technology Expo., 'Object Recognition for Vehicles', Tomoya Sawada, June 2018.
 - General Meeting of Shareholders (Mitsubishi Electric), 'Technical Introduction of AI: Object Detection', Tomoya Sawada, May 2018.
 - Combined Exhibition of Advanced Technologies(CEATEC), 'Object Detection for Camera-Monitoring-System', Tomoya Sawada, Kazuyuki Miyazawa, March 2018.
 - IEEE SPECTRUM, 'AI-Aided Cameras Mean No More Car Mirrors, No More Blind Spots', 2018. <https://spectrum.ieee.org/mitsubishi-electric-develops-highperformance-aibased-mirrorless-car-technology>
-- News Release, 'Mitsubishi Electric Develops Object-recognition Camera Technology Using Proprietary AI for Coming Mirrorless Cars', 2018. <http://www.mitsubishielectric.co.jp/news/2018/pdf/0117.pdf>
+- News Release, 'Mitsubishi Electric Develops Object-recognition Camera Technology Using Proprietary AI for Coming Mirrorless Cars', 2018. <https://www.mitsubishielectric.com/news/2018/0117.html>
+  - Mitsubishi’s Object-Recognition Camera Technology Focused on Mirrorless Cars, Electronic Design. <https://www.electronicdesign.com/markets/automotive/article/21806100/mitsubishis-object-recognition-camera-technology-focused-on-mirrorless-cars>
+  - 三菱電機、AIにより約100m後方の物体をリアルタイムで認識可能となった「電子ミラー向け物体認識技術」説明会, Car Watch. <https://car.watch.impress.co.jp/docs/news/1101673.html>
+  - AIで100メートル後方でも検出　三菱電機が電子ミラー, 日本経済新聞. <https://www.nikkei.com/article/DGXMZO25842710Y8A110C1000000/>
+  - 後方の車両を遠方から認識、三菱電機の電子ミラー向け物体認識技術, Automotive Media. <https://response.jp/article/img/2018/02/21/306319/1277654.html>
 
 ### Patents
 (Domestic Application)
