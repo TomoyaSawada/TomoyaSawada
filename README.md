@@ -152,6 +152,8 @@ T.Sawada, M.Toyoura, X.Mao (2012, March) 'Using Eye-tracking Data for Automatic 
 - News Release, "Matsuo Institute's "IoT × GenAI Lab" Research Selected for Oral Presentation at BuildSys 2024", Matsuo Institute, November 2024. <https://matsuo-institute.com/2024/11/632/>
 - News Release, "Mitsubishi Electric, SORACOM, and Matsuo Institute's Joint Project "IoT × GenAI Lab" Announces Research Results at International Conference "BuildSys 2024"", SORACOM Inc., November 2024. <https://soracom.com/ja/news/20241118-use-of-iot-and-ai-in-hvac-control>
 - Dataiku Community Event (presentation), 'Let's ideate the future of manufacturing powered by generative AI!', Tomoya Sawada, October 2024. <https://techplay.jp/event/957075?utm_source=notifyApplicant&utm_medium=email&utm_campaign=tp_20241016>
+- WIRED Singularity (presentation), 'Democratizing Generative AI: Usecase in Mitsubishi Electric', Tomoya Sawada, September 2024.
+<https://wired.jp/article/wired-singularity/> 
 - Dataiku Everyday AI Tokyo (presentation), 'Democratizing Generative AI with AI Platforms: Harnessing the Power and Potential of Multimodal Generative AI', Tomoya Sawada, July 2024.
   - <https://events.dataiku.com/everyday-ai-summit-tokyo>
   - <https://news.mynavi.jp/techplus/article/20240725-2992336/>
