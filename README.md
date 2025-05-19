@@ -150,6 +150,8 @@ T.Sawada, M.Toyoura, X.Mao (2012, March) 'Using Eye-tracking Data for Automatic 
 
 ### Exhibition and Publication
 - Invited lecture for the compulsory subject "Intelligent Systems," Department of Computer Science and Engineering, National University of Yamanashi, funded by JSPS KAKENHI, June 2025.
+  - Title: "Frontiers of AI Technology: Seamlessly Connected AI from Edge to Cloud" (90 minutes)
+  - Content: Explained collaborative technologies from Edge AI to Cloud AI, AI's role in solving societal issues, and its connection with fundamental mathematical knowledge for undergraduate students.
 - Dataiku Community Event (presentation), 'Dataiku Agentic AI Introduction', Tomoya Sawada, May 2025. <https://techplay.jp/event/980305>
 - News Release, "Matsuo Institute's "IoT × GenAI Lab" Research Selected for Oral Presentation at BuildSys 2024", Matsuo Institute, November 2024. <https://matsuo-institute.com/2024/11/632/>
 - News Release, "Mitsubishi Electric, SORACOM, and Matsuo Institute's Joint Project "IoT × GenAI Lab" Announces Research Results at International Conference "BuildSys 2024"", SORACOM Inc., November 2024. <https://soracom.com/ja/news/20241118-use-of-iot-and-ai-in-hvac-control>
