@@ -149,6 +149,8 @@ T.Sawada, M.Toyoura, X.Mao (2012, March) 'Using Eye-tracking Data for Automatic 
 - M. Toyoura, T. Sawada, M. Kunihiro, X. Mao (2012, March) 'Using Eye‐Tracking Data for Automatic Film Comic Creation', ACM Simposium on Eye Tracking Research & Applications(ETRA), pp. 373‐376.
 
 ### Exhibition and Publication
+- Invited lecture for the compulsory subject "Intelligent Systems," Department of Computer Science and Engineering, National University of Yamanashi, funded by JSPS KAKENHI, June 2025.
+- Dataiku Community Event (presentation), 'Dataiku Agentic AI Introduction', Tomoya Sawada, May 2025. <https://techplay.jp/event/980305>
 - News Release, "Matsuo Institute's "IoT × GenAI Lab" Research Selected for Oral Presentation at BuildSys 2024", Matsuo Institute, November 2024. <https://matsuo-institute.com/2024/11/632/>
 - News Release, "Mitsubishi Electric, SORACOM, and Matsuo Institute's Joint Project "IoT × GenAI Lab" Announces Research Results at International Conference "BuildSys 2024"", SORACOM Inc., November 2024. <https://soracom.com/ja/news/20241118-use-of-iot-and-ai-in-hvac-control>
 - Dataiku Community Event (presentation), 'Let's ideate the future of manufacturing powered by generative AI!', Tomoya Sawada, October 2024. <https://techplay.jp/event/957075?utm_source=notifyApplicant&utm_medium=email&utm_campaign=tp_20241016>
