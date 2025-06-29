@@ -133,7 +133,7 @@ T.Sawada (2014, March), Repayment Exemption for Students with Excellent Grades -
 T.Sawada, M.Toyoura, X.Mao (2012, March) 'Using Eye-tracking Data for Automatic Film Comic Generation', Forum on Art and Science. 
 
 ### Journal Articles
-- T.Sawada, M.Mizuno, T.Hasegawa, K.Yokoyama, M.Kono (2025, May) 'Office-in-the-Loop: An investigation into Agentic AI for advanced building HVAC control systems', Data-Centric Engneering, Cambridge University Press, pp.1-40, DOI: 10.1017/dce.2025.10010. 
+- T. Sawada, M. Mizuno, T. Hasegawa, K. Yokoyama, and M. Kono, (2025, June) 'Office-in-the-Loop: an investigation into Agentic AI for advanced building HVAC control systems,' Data-Centric Engineering, vol. 6, p. e31, 2025. doi:10.1017/dce.2025.10010. 
 - T.Sawada,  Y.Goto,  M.Toyoura,  X.Mao,  J.Gyoba (2015, June) 'Saliency Map for Images with Leading Lines', The Journal of the Institute of Electronics, Information and Communication Engineers, Vol.J98‐A,  No.6, pp.446‐449.  
 - T.Sawada, M.Toyoura, X.Mao (2013, September) 'Automatic Film Comic Generation Using iMap', The Journal of the Institute of Image Electronics Engineers of Japan, Vol. 42, No. 5, pp. 671‐680.
 - T.Sawada, M.Toyoura, X.Mao (2012, March) 'Automatic Creation of Film Comic Using Eye-Tracking Data', The Technical Letter of the Institute of Image Information and Television Engineers, Vol. 36, No.16, pp. 153-156. 
