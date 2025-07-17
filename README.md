@@ -150,8 +150,9 @@ T.Sawada, M.Toyoura, X.Mao (2012, March) 'Using Eye-tracking Data for Automatic 
 - M. Toyoura, T. Sawada, M. Kunihiro, X. Mao (2012, March) 'Using Eye‐Tracking Data for Automatic Film Comic Creation', ACM Simposium on Eye Tracking Research & Applications(ETRA), pp. 373‐376.
 
 ### Exhibition and Publication
-- The 33rd ACM International Conference on Multimedia Industry Expert Talks, Dublin Ireland, 2025.
-- Invited lecture for the compulsory subject "Intelligent Systems," Department of Computer Science and Engineering, National University of Yamanashi, funded by Yamanashi Univ., June 2025.
+- News Release, "Matsuo Institute's Research on Agent AI for Building HVAC Control Accepted by International Journal Data-Centric Engineering, Invited as a Specially Selected Paper from ACM BuildSys 2024",  Matsuo Institute, July 2025. <https://matsuo-institute.com/2025/07/768/>
+- The 33rd ACM International Conference on Multimedia Industry Expert Talks, Dublin Ireland, October 2025.
+- Invited lecture for a 3rd-year compulsory subject "Intelligent Systems," Department of Computer Science and Engineering, National University of Yamanashi, funded by Yamanashi Univ., June 2025.
   - Title: "Frontiers of AI Technology: Seamlessly Connected AI from Edge to Cloud" 
   - Content: Explained collaborative technologies from Edge AI to Cloud AI, AI's role in solving societal issues, and its connection with fundamental mathematical knowledge for undergraduate students.
 - Dataiku Community Event (presentation), 'Dataiku Agentic AI Introduction', Tomoya Sawada, May 2025. <https://techplay.jp/event/980305>
