@@ -205,9 +205,9 @@ A portfolio of over 30 granted or pending patents, demonstrating sustained innov
 *   **CTO Masahiro Fujita Award (2018, March):** Received for significant contributions to the development and expansion of Mitsubishi Electric's core AI technology brand, 'Maisart'. Title:  'Development and Expansion of Maisart Technology', Mitsubishi Electric Corporation.
 *   **Information Technology R&D Center GM Tetsuo Nakagawaji Award (2017, March):** Recognized for foundational technology development in autonomous driving (Level 3). Title: 'Fundamental Technology Development of Self-driving Vehicle(Level3)', Mitsubishi Electric Corporation. 
 *   **Best Student Award & Scholarship Full Exemption (University of Yamanashi):** Awarded for outstanding academic excellence and research potential during M.S. and B.S. studies.
-  - Best Student Award, T.Sawada (2014, March), Integrated Graduate School of Medicine and Engineering, University of Yamanashi.
-  - Scholarship Full Exemption, T.Sawada (2014, March), Repayment Exemption for Students with Excellent Grades -FY2014-, Japan Student Services Organization (JASSO) Scholarship) 
-  - Best Student Award, T.Sawada (2012, March), Faculty of Engineering, University of Yamanashi.
+    * Best Student Award, T.Sawada (2014, March), Integrated Graduate School of Medicine and Engineering, University of Yamanashi.
+    * Scholarship Full Exemption, T.Sawada (2014, March), Repayment Exemption for Students with Excellent Grades -FY2014-, Japan Student Services Organization (JASSO) Scholarship) 
+    * Best Student Award, T.Sawada (2012, March), Faculty of Engineering, University of Yamanashi.
 *   **Best Poster Award (Forum on Art and Science):** Awarded for outstanding research and presentation. Title: 'Using Eye-tracking Data for Automatic Film Comic Generation', T.Sawada, M.Toyoura, X.Mao
 
 ### Media Recognition & Thought Leadership
